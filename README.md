@@ -2,6 +2,9 @@
 
 > Grunt plugin for auto-generating Angular $resource services for LoopBack
 
+See the official [LoopBack AngularJS SDK documentation](http://docs.strongloop.com/display/DOC/AngularJS+JavaScript+SDK)
+for more information.
+
 ## Getting Started
 This plugin requires Grunt `~0.4.2`
 
@@ -103,3 +106,7 @@ grunt.initConfig({
 ## Contributing
 
 See [CONTRIBUTING.md](CONTRIBUTING.md)
+
+## Mailing List
+
+Discuss features and ask questions on [LoopBack Forum](https://groups.google.com/forum/#!forum/loopbackjs).
